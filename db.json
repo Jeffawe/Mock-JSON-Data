@@ -1,0 +1,124 @@
+{
+  "developers": [
+    {
+      "id": 1,
+      "name": "Sarah",
+      "role": "ios developer",
+      "skills": ["swift", "uikit", "swiftui", "xcode"]
+    },
+    {
+      "id": 2,
+      "name": "Mike",
+      "role": "backend developer",
+      "skills": ["node", "postgres", "redis", "docker"]
+    },
+    {
+      "id": 3,
+      "name": "Aisha",
+      "role": "frontend developer",
+      "skills": ["react", "typescript", "css", "nextjs"]
+    },
+    {
+      "id": 4,
+      "name": "John",
+      "role": "android developer",
+      "skills": ["kotlin", "jetpack compose", "android studio"]
+    },
+    {
+      "id": 5,
+      "name": "Priya",
+      "role": "full stack developer",
+      "skills": ["react", "node", "mongodb", "aws"]
+    },
+    {
+      "id": 6,
+      "name": "Leon",
+      "role": "devops engineer",
+      "skills": ["kubernetes", "terraform", "aws", "docker"]
+    },
+    {
+      "id": 7,
+      "name": "Maria",
+      "role": "qa engineer",
+      "skills": ["selenium", "cypress", "pytest"]
+    },
+    {
+      "id": 8,
+      "name": "Oliver",
+      "role": "machine learning engineer",
+      "skills": ["python", "pytorch", "tensorflow", "mlops"]
+    },
+    {
+      "id": 9,
+      "name": "Daniella",
+      "role": "data engineer",
+      "skills": ["python", "spark", "airflow", "bigquery"]
+    },
+    {
+      "id": 10,
+      "name": "Ken",
+      "role": "backend developer",
+      "skills": ["golang", "grpc", "kafka"]
+    },
+    {
+      "id": 11,
+      "name": "Eva",
+      "role": "frontend developer",
+      "skills": ["vue", "nuxt", "sass"]
+    },
+    {
+      "id": 12,
+      "name": "Bruno",
+      "role": "security engineer",
+      "skills": ["pentesting", "siem", "threat modeling"]
+    },
+    {
+      "id": 13,
+      "name": "Fatima",
+      "role": "product manager",
+      "skills": ["agile", "roadmapping", "user interviews"]
+    },
+    {
+      "id": 14,
+      "name": "Alex",
+      "role": "ios developer",
+      "skills": ["swift", "combine", "swiftui"]
+    },
+    {
+      "id": 15,
+      "name": "Ravi",
+      "role": "full stack developer",
+      "skills": ["django", "react", "postgres"]
+    },
+    {
+      "id": 16,
+      "name": "Chen",
+      "role": "mlops engineer",
+      "skills": ["kubeflow", "sagemaker", "docker", "aws"]
+    },
+    {
+      "id": 17,
+      "name": "Grace",
+      "role": "android developer",
+      "skills": ["java", "kotlin", "xml"]
+    },
+    {
+      "id": 18,
+      "name": "Samuel",
+      "role": "ui/ux designer",
+      "skills": ["figma", "prototyping", "illustrator"]
+    },
+    {
+      "id": 19,
+      "name": "Jamal",
+      "role": "backend developer",
+      "skills": ["ruby", "rails", "postgres"]
+    },
+    {
+      "id": 20,
+      "name": "Nina",
+      "role": "qa engineer",
+      "skills": ["manual testing", "test automation", "postman"]
+    }
+  ]
+}
