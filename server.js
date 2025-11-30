@@ -9,9 +9,7 @@ server.use(jsonServer.bodyParser);
 // Mock GitHub Issues endpoint
 server.post("/repos/:owner/:repo/issues", (req, res) => {
     // Validate required fields
-    const { title, body, assignees, milestone, labels } = req.body;
-
-    const { hasConfirmed } = req.query;
+    const { title, body, assignees, milestone, labels, hasConfirmed } = req.body;
 
     if (!hasConfirmed) {
         return res.status(422).json({
